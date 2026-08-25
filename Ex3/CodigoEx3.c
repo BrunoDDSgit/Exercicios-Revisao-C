@@ -8,7 +8,7 @@ int main() {
     scanf("%d %d", &a, &b);
 
     if(a > b || !(a > 0)) {
-        c = (float)(b / a);
+        c = (float)(b / a); 
     } else {
         c = (float)(a / b);
     }
@@ -16,15 +16,15 @@ int main() {
     return 0;
 
     /*
-        Conclusão: a saída sempre será 0, isso por que a lógica do programa está incorreta,
-        pois o certo seria fazer a divisão de um número maior por um menor, e não o contrário, 
-        como está no código, resultando assim sempre em 0 mesmo após a conversão para float. 
-        o correto então seria:
+        Conclusão: 
 
-        if(a > b || !(a > 0)) {
-            c = (float)(a / b);
-        } else {
-            c = (float)(b / a);
-        }
+        a saída sempre será 0, isso por que a lógica do programa está incorreta, pois a
+        conversão para float é feita após a divisão, e como a divisão de dois inteiros 
+        é sempre um inteiro, o resultado da divisão será 0, e só depois será convertido para float.
+
+        Mesmo que este ponto acima fosse concertado, a divisão nunca daria um resultado maior que 1,
+        ficando sempre 0.xxxx, isso por que a divisão está sempre sendo feita com o número menor 
+        sendo dividido pelo maior.
+
      */
 }
