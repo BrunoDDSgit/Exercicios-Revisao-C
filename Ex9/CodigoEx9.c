@@ -17,6 +17,7 @@ int main() {
     system("cls");
     char* resultado = calcularResultado(aluno);
     imprimirAluno(aluno, resultado);
+    free(aluno);
 
 }
 
