@@ -1,0 +1,190 @@
+commit 241ac537b5ee1f0847b3aa1826f899d4026e764e
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 16:29:31 2026 -0300
+
+    FIX: Reestruturação das pastas
+
+commit 8d426df70ae118edc7ac5e698ee1e56e05d8a31b
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 16:26:56 2026 -0300
+
+    Resolução do exercício 11!!!!!
+
+commit f7a293796134715f9e0eab84c901fc23f266f630
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 16:14:10 2026 -0300
+
+    FEAT: Resolução do exercício 8
+
+commit 9902773f99a59d2a504e8c7b8190c064d4b28e2d
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 16:02:52 2026 -0300
+
+    FIX: corrigindo erros
+
+commit 74d6ac12af982f214b2ecb32e493a0cc3c2427ab
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 16:01:31 2026 -0300
+
+    FEAT: resolução exercício 10
+
+commit 5fe967c88f8d69fe7ced9f42ac28a5d3ef9b0ac5
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 15:31:06 2026 -0300
+
+    FIX: adiciona o free no final da utilização
+
+commit c9ccd2c83b5001e66ef2f5148b17278409a09025
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 14:43:57 2026 -0300
+
+    FEAT: resolução exercício 9
+
+commit ae7f53d1a8f7c4eaa58f30e31957d3c4ee9fb353
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 11:11:56 2026 -0300
+
+    FEAT: resolução exercício 7
+
+commit bf214c64ee5d4f8649c590e98f60a18bdf0845d5
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 11:00:52 2026 -0300
+
+    FEAT: resolução exercício 6
+
+commit d3507df42f3874c45e2e25f6c4299adc8e99d9c3
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 10:45:08 2026 -0300
+
+    FEAT: resolução exercício 5
+
+commit d20f539eb4e1c779b3dc05eeb5f3966762527a66
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 10:25:39 2026 -0300
+
+    FEAT: resolução exercício 4
+
+commit 46dda15e73226ac4b0038f74b9f073a0455189a5
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 10:21:01 2026 -0300
+
+    FIX: correção da resposta no exercício 3
+
+commit 75cd00f80a0f604d41160110376da7e7b0a9c74c
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 10:05:14 2026 -0300
+
+    FEAT: Resolução do exercício 3
+
+commit ad134775bdcea24352dc709308b49928c282024d
+Author: Bruno Darlei Dos Santos
+Date:   Mon Aug 24 16:24:15 2026 -0300
+
+    FEAT: Resolução do exercício 2
+
+commit 799692b0782c8901c529a61d275b4d9099fba7d4
+Author: Bruno Darlei Dos Santos
+Date:   Mon Aug 24 15:44:56 2026 -0300
+
+    FEAT: +Resolução do exercício 1.
+
+commit 0f8e4169e916e51b24992decf8d7e0a46a416835
+Author: Bruno Darlei Dos Santos
+Date:   Mon Aug 24 15:11:33 2026 -0300
+
+    CHORE: criação de pastas e arquivos
+commit 241ac537b5ee1f0847b3aa1826f899d4026e764e
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 16:29:31 2026 -0300
+
+    FIX: Reestruturação das pastas
+
+commit 8d426df70ae118edc7ac5e698ee1e56e05d8a31b
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 16:26:56 2026 -0300
+
+    Resolução do exercício 11!!!!!
+
+commit f7a293796134715f9e0eab84c901fc23f266f630
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 16:14:10 2026 -0300
+
+    FEAT: Resolução do exercício 8
+
+commit 9902773f99a59d2a504e8c7b8190c064d4b28e2d
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 16:02:52 2026 -0300
+
+    FIX: corrigindo erros
+
+commit 74d6ac12af982f214b2ecb32e493a0cc3c2427ab
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 16:01:31 2026 -0300
+
+    FEAT: resolução exercício 10
+
+commit 5fe967c88f8d69fe7ced9f42ac28a5d3ef9b0ac5
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 15:31:06 2026 -0300
+
+    FIX: adiciona o free no final da utilização
+
+commit c9ccd2c83b5001e66ef2f5148b17278409a09025
+Author: Bruno Darlei Dos Santos
+Date:   Wed Aug 26 14:43:57 2026 -0300
+
+    FEAT: resolução exercício 9
+
+commit ae7f53d1a8f7c4eaa58f30e31957d3c4ee9fb353
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 11:11:56 2026 -0300
+
+    FEAT: resolução exercício 7
+
+commit bf214c64ee5d4f8649c590e98f60a18bdf0845d5
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 11:00:52 2026 -0300
+
+    FEAT: resolução exercício 6
+
+commit d3507df42f3874c45e2e25f6c4299adc8e99d9c3
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 10:45:08 2026 -0300
+
+    FEAT: resolução exercício 5
+
+commit d20f539eb4e1c779b3dc05eeb5f3966762527a66
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 10:25:39 2026 -0300
+
+    FEAT: resolução exercício 4
+
+commit 46dda15e73226ac4b0038f74b9f073a0455189a5
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 10:21:01 2026 -0300
+
+    FIX: correção da resposta no exercício 3
+
+commit 75cd00f80a0f604d41160110376da7e7b0a9c74c
+Author: Bruno Darlei Dos Santos
+Date:   Tue Aug 25 10:05:14 2026 -0300
+
+    FEAT: Resolução do exercício 3
+
+commit ad134775bdcea24352dc709308b49928c282024d
+Author: Bruno Darlei Dos Santos
+Date:   Mon Aug 24 16:24:15 2026 -0300
+
+    FEAT: Resolução do exercício 2
+
+commit 799692b0782c8901c529a61d275b4d9099fba7d4
+Author: Bruno Darlei Dos Santos
+Date:   Mon Aug 24 15:44:56 2026 -0300
+
+    FEAT: +Resolução do exercício 1.
+
+commit 0f8e4169e916e51b24992decf8d7e0a46a416835
+Author: Bruno Darlei Dos Santos
+Date:   Mon Aug 24 15:11:33 2026 -0300
+
+    CHORE: criação de pastas e arquivos
