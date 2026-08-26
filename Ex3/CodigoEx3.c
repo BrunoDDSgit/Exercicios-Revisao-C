@@ -22,7 +22,7 @@ int main() {
         conversão para float é feita após a divisão, e como a divisão de dois inteiros 
         é sempre um inteiro, o resultado da divisão será 0, e só depois será convertido para float.
 
-        Mesmo que este ponto acima fosse concertado, a divisão nunca daria um resultado maior que 1,
+        Mesmo que este ponto acima fosse consertado, a divisão nunca daria um resultado maior que 1,
         ficando sempre 0.xxxx, isso por que a divisão está sempre sendo feita com o número menor 
         sendo dividido pelo maior.
 

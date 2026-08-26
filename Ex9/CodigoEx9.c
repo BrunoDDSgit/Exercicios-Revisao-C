@@ -29,7 +29,7 @@ aluno_t* gerarAluno() {
     }
 
     printf("Digite o nome do aluno: ");
-    scanf("%[^'\n']", aluno->nome);
+    scanf(" %[^\n]", aluno->nome);
     getchar(); 
     
     printf("Digite o numero de faltas do aluno: ");
